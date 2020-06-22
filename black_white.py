@@ -34,8 +34,6 @@ button_color = (0, 125, 255)
 is_over = False
 # 隐藏标识
 is_hide = False
-
-
 # 难度level，几乘几
 level = 4
 
